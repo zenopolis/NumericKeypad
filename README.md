@@ -12,7 +12,7 @@
 
 </div>
 
-__NumericKeypad__ provides an accessibility compatible number picker for SwiftUI. The user can pick between two views: a number pad, and a system numeric keyboard with a text field. NumericKeypad will return to the last view the user used when they invoke the picker another time.  
+__NumericKeypad__ provides an accessibility compatible number picker for SwiftUI. The user can pick between two views: a number pad, and a system numeric keyboard with a text field. NumericKeypad will return to the last view the user chose when they invoke the picker again.  
 
 
 ![Three screenshots showing NumericKeypad in action. The first image shows the number pad and the accessible input field. The second image shows the keyboard view. The third image shows the number pad with Voice Control.](https://github.com/user-attachments/assets/c9faae3b-152a-40f7-8c1a-19e92a73b160)
