@@ -1,12 +1,6 @@
-![NumericKeypad Banner](https://github.com/user-attachments/assets/823f2e50-033e-4176-beda-811acf88334e)
+<!-- ![NumericKeypad Banner](https://github.com/user-attachments/assets/823f2e50-033e-4176-beda-811acf88334e) -->
 
-# Introduction
-
-![Three screenshots showing NumericKeypad in action. The first image shows the number pad and the accessible input field. The second image shows the keyboard view. The third image shows the number pad with Voice Control.](https://github.com/user-attachments/assets/c9faae3b-152a-40f7-8c1a-19e92a73b160)
-
-__NumericKeypad__ provides an accessibility compatible number picker for SwiftUI. The user can pick between two views: a number pad, and a system numeric keyboard with a text field. NumericKeypad will return to the last view the user used when they invoke the picker another time.  
-
-
+# NumericKeypad
 
 <div align="center">
   
@@ -18,7 +12,10 @@ __NumericKeypad__ provides an accessibility compatible number picker for SwiftUI
 
 </div>
 
----
+__NumericKeypad__ provides an accessibility compatible number picker for SwiftUI. The user can pick between two views: a number pad, and a system numeric keyboard with a text field. NumericKeypad will return to the last view the user used when they invoke the picker another time.  
+
+
+![Three screenshots showing NumericKeypad in action. The first image shows the number pad and the accessible input field. The second image shows the keyboard view. The third image shows the number pad with Voice Control.](https://github.com/user-attachments/assets/c9faae3b-152a-40f7-8c1a-19e92a73b160)
 
 ## Content
 
