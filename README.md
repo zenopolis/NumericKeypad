@@ -1,5 +1,3 @@
-<!-- ![NumericKeypad Banner](https://github.com/user-attachments/assets/823f2e50-033e-4176-beda-811acf88334e) -->
-
 # NumericKeypad
 
 <div align="center">
